@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Redux-Training/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Redux-Training/static/js/main.eb69a7f3.chunk.js",
+    "main.js.map": "/Redux-Training/static/js/main.eb69a7f3.chunk.js.map",
+    "runtime-main.js": "/Redux-Training/static/js/runtime-main.61aeea8a.js",
+    "runtime-main.js.map": "/Redux-Training/static/js/runtime-main.61aeea8a.js.map",
+    "static/js/2.f9636155.chunk.js": "/Redux-Training/static/js/2.f9636155.chunk.js",
+    "static/js/2.f9636155.chunk.js.map": "/Redux-Training/static/js/2.f9636155.chunk.js.map",
+    "static/js/3.3e9fa39d.chunk.js": "/Redux-Training/static/js/3.3e9fa39d.chunk.js",
+    "static/js/3.3e9fa39d.chunk.js.map": "/Redux-Training/static/js/3.3e9fa39d.chunk.js.map",
+    "index.html": "/Redux-Training/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Redux-Training/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f9636155.chunk.js.LICENSE.txt": "/Redux-Training/static/js/2.f9636155.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Redux-Training/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61aeea8a.js",
+    "static/js/2.f9636155.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.eb69a7f3.chunk.js"
+  ]
+}
